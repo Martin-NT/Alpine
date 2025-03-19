@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/um_logo.png" alt="Universidad de Mendoza" />
 </p>
+
 # Proyecto Alpine 
 
 ## Diseño de Bases de Datos II - Ingeniería Informática  
