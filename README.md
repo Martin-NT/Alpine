@@ -4,13 +4,14 @@
 
 # Proyecto Alpine 
 
-## Diseño de Bases de Datos II - Ingeniería Informática  
+## Diseño de Bases de Datos II 
 
 ### Información 
 - **Profesor:** Fernando Zapata
 - **Nombre:** Martin Navarro
 - **Legajo:** 62181
-- **Correo:** martinnavarro1503@gmail.com
+- **Carrera:** Ingeniería Informática  
 - **Correo Institucional:** mt.navarro@alumno.um.edu.ar
+- **Correo:** martinnavarro1503@gmail.com
 
 
